@@ -15,7 +15,7 @@ Cheminformatics resources ⚛️
 
 * TeachOpenCADD - https://projects.volkamerlab.org/teachopencadd/ Open source course on computer aided drug design from the Volkamer lab, complete with Juypter notebooks
 * Practical Cheminformatics - https://practicalcheminformatics.blogspot.com/ Cheminformatics blog
-* 
+* Is life worth living? - https://iwatobipen.wordpress.com/ Cheminformatics blog
 
 
 PhD/Research resources 🎓
