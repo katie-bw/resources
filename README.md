@@ -21,9 +21,20 @@ Cheminformatics resources ⚛️
 PhD/Research resources 🎓
 ---------------------
 
+* FlowingData - https://flowingdata.com/ An example of how how data can be presented beautifully 
+* BeautifulNews - https://informationisbeautiful.net/beautifulnews/ Another example of how how data can be presented beautifully
+* AFSA Masterclass - https://www.afsacollaboration.org/masterclass/ This is a bit specific but a great free course from the Animal Free Safety Assessment Collaboration on _in silico_ tools for safety assessment
+* Flat Icons - https://www.flaticon.com/icons Icons to jazz up your presentations 
+
 
 
 ML/AI/Computer science resources 🤖
 --------------
 
-* Medium - https://medium.com/ Publishing platform with a large amount of data science and ML/AI resouces 
+* Medium - https://medium.com/ Publishing platform with a large amount of data science and ML/AI resouces
+There are SO many different platforms to learn coding/AI on I have included some of the ones I've used below
+* DataCamp - https://www.datacamp.com/
+* CodeAcademy - https://www.codecademy.com/
+* FreeCodeCamp - https://www.freecodecamp.org/
+* Mimo - https://mimo.org/ Really good if you're new to coding, like DuoLingo but for coding!
+* Learn Git - https://learngitbranching.js.org/ Interactive way to learn how Git works 
