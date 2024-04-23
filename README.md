@@ -16,15 +16,17 @@ Cheminformatics resources ⚛️
 * TeachOpenCADD - https://projects.volkamerlab.org/teachopencadd/ Open source course on computer aided drug design from the Volkamer lab, complete with Juypter notebooks
 * Practical Cheminformatics - https://practicalcheminformatics.blogspot.com/ Cheminformatics blog
 * Is life worth living? - https://iwatobipen.wordpress.com/ Cheminformatics blog
-
+* Deep Learning for Molecules and Materials - https://dmol.pub/intro.html#license-cc-by-nc-3-0 Book from Andrew White on ML for molecules
 
 PhD/Research resources 🎓
 ---------------------
 
+* Connected papers - https://www.connectedpapers.com Generates graphs of connected papers based off of an initial paper of interest
 * FlowingData - https://flowingdata.com/ An example of how how data can be presented beautifully 
 * BeautifulNews - https://informationisbeautiful.net/beautifulnews/ Another example of how how data can be presented beautifully
 * AFSA Masterclass - https://www.afsacollaboration.org/masterclass/ This is a bit specific but a great free course from the Animal Free Safety Assessment Collaboration on _in silico_ tools for safety assessment
-* Flat Icons - https://www.flaticon.com/icons Icons to jazz up your presentations 
+* Flat Icons - https://www.flaticon.com/icons Icons to jazz up your presentations
+* The PhD knowledge base - https://www.thephdproofreaders.com/the-knowledge-base/ A number of resources to help with completing a PhD
 
 
 
@@ -37,4 +39,6 @@ There are SO many different platforms to learn coding/AI on I have included some
 * CodeAcademy - https://www.codecademy.com/
 * FreeCodeCamp - https://www.freecodecamp.org/
 * Mimo - https://mimo.org/ Really good if you're new to coding, like DuoLingo but for coding!
-* Learn Git - https://learngitbranching.js.org/ Interactive way to learn how Git works 
+* Learn Git - https://learngitbranching.js.org/ Interactive way to learn how Git works
+* Distill - https://staging.distill.pub Although it isn't updated anymore there are a lot of nice articles explaining ML and AI concepts
+* Reducing Loss - https://developers.google.com/machine-learning/crash-course/reducing-loss/playground-exercise A playground from Google demonstrating how hyperparameters impact the performance of neural networks
