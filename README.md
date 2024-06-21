@@ -44,3 +44,4 @@ There are SO many different platforms to learn coding/AI on I have included some
 * Distill - https://staging.distill.pub Although it isn't updated anymore there are a lot of nice articles explaining ML and AI concepts
 * Reducing Loss - https://developers.google.com/machine-learning/crash-course/reducing-loss/playground-exercise A playground from Google demonstrating how hyperparameters impact the performance of neural networks
 * The Little Book of Deep Learning - https://fleuret.org/francois/lbdl.html - Free e-book on deep learning designed for people with a STEM background, designed to fit on a phone screen
+* Intro to GNNs - https://www.youtube.com/watch?v=GXhBEj1ZtE8 - Really good intro to how GNNs work, sadly the author hasn't released any other videos 
