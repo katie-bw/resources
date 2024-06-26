@@ -9,6 +9,7 @@ Packages 📦
 * DataMol - https://datamol.io/ Open source toolkit of cheminformatics tools, some built upon RDKit
 * Exmol - https://github.com/ur-whitelab/exmol Model agnostic explainability methods for ML for chemistry
 * Plotly - https://plotly.com/python/ Graphing package, can be difficult initially but it allows for a large amount of customization and can even be used to generate interactive plots
+* MolVA - https://molvs.readthedocs.io/en/latest/ Package for molecule standardization
 
 Cheminformatics resources ⚛️
 ------------------------
