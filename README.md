@@ -1,6 +1,6 @@
 # Resources
 
-👋 I'm Katie a 3rd year PhD candidate at the University of Cambridge. Making the transition to cheminformatics/computational chemistry can be difficult. During my PhD I have accumilated a number of resources I wish someone had shown me the day I started, so here are these resources!
+👋 I'm Katie a 3rd year PhD candidate at the University of Cambridge and current XAI intern at Ignota Labs. Making the transition to cheminformatics/computational chemistry can be difficult. During my PhD I have accumilated a number of resources I wish someone had shown me the day I started, so here are these resources!
 
 Packages 📦
 -------
