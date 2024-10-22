@@ -1,6 +1,6 @@
 # Resources
 
-👋 I'm Katie a 3rd year PhD candidate at the University of Cambridge and current XAI intern at Ignota Labs. Making the transition to cheminformatics/computational chemistry can be difficult. During my PhD I have accumilated a number of resources I wish someone had shown me the day I started, so here are these resources!
+👋 I'm Katie a final year PhD candidate at the University of Cambridge and current XAI intern at Ignota Labs. Making the transition to cheminformatics/computational chemistry can be difficult. During my PhD I have accumilated a number of resources I wish someone had shown me the day I started, so here are these resources!
 
 Packages 📦
 -------
@@ -29,8 +29,6 @@ PhD/Research resources 🎓
 * AFSA Masterclass - https://www.afsacollaboration.org/masterclass/ This is a bit specific but a great free course from the Animal Free Safety Assessment Collaboration on _in silico_ tools for safety assessment
 * Flat Icons - https://www.flaticon.com/icons Icons to jazz up your presentations
 * The PhD knowledge base - https://www.thephdproofreaders.com/the-knowledge-base/ A number of resources to help with completing a PhD
-
-
 
 ML/AI/Computer science resources 🤖
 --------------
