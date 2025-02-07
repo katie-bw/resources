@@ -29,6 +29,8 @@ PhD/Research resources 🎓
 * AFSA Masterclass - https://www.afsacollaboration.org/masterclass/ This is a bit specific but a great free course from the Animal Free Safety Assessment Collaboration on _in silico_ tools for safety assessment
 * Flat Icons - https://www.flaticon.com/icons Icons to jazz up your presentations
 * The PhD knowledge base - https://www.thephdproofreaders.com/the-knowledge-base/ A number of resources to help with completing a PhD
+* Notion - https://www.notion.com/desktop Highly customisable note taking app
+* Obsidian - https://obsidian.md/ Another note taking app, well suited to building up glossaries 
 
 ML/AI/Computer science resources 🤖
 --------------
